@@ -1,1 +1,3 @@
-# vite-demo
+# To run
+### cd vite-project
+### npm run dev
